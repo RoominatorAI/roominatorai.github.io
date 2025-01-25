@@ -1,2 +1,3 @@
 # roominatorai.github.io
-ehh
+
+This will host the "NoJS" version of R.AI, which is objectively worse than the JS ver.
